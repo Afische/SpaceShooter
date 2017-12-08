@@ -5,4 +5,6 @@ Features: Player ship with laser gun, various asteroid hazards, three enemy ship
 
 To play the game in your browser visit: http://htmlpreview.github.io/?https://github.com/Afische/SpaceShooter/blob/master/index.html
 
+Controls: Arrow keys to move, space bar or left mouse click to shoot
+
 ***NOTE you may need to zoom out in your browser to see the full game. The game may take a few moments to load.
